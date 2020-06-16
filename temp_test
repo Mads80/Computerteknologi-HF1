@@ -1,0 +1,25 @@
+import RPi.GPIO as GPIO
+import dht11
+import time
+
+# initialize GPIO
+GPIO.setwarnings(False)
+GPIO.setmode(GPIO.BCM)
+GPIO.cleanup()
+
+# Set relay pins as output
+GPIO.setup(21, GPIO.OUT)
+
+# read data using pin 20
+instance = dht11.DHT11(pin=20)
+
+while True:
+    result = instance.read()
+    tempHI = 26
+    tempLOW = 24
+    if (result.temperature) > tempHI:
+        GPIO.output(21, GPIO.HIGH) #turn GPIO pin 21 on
+    elif (result.temperature) < tempLOW:
+        GPIO.output(21, GPIO.LOW) #Turn GPIO pin 21 off
+    time.sleep(5)
+
