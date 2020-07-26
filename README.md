@@ -37,7 +37,7 @@ LED Display som viser temperaturen.
 
 ## Billede af vores klimaanlæg:
 
-<img src="images/raspberrypi-computertek-hf1.png" alt="RaspberryPi-image" width="200"/>
+<img src="images/raspberrypi-computertek-hf1.png" alt="RaspberryPi-image" width="800"/>
 
 ## Vores kode:
 
