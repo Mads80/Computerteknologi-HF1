@@ -22,7 +22,6 @@ Vores projekt består af følgende komponenter:
 - GrovePi Display.
 
 <br/>
-
 1 stk. blæser forbundet til en strømforsyning.
 
 En temperaturføler som aktiverer vores relæ, når temperaturen overstiger 28 C grader.
@@ -34,7 +33,6 @@ LED Display som viser temperaturen.
 ![Diagram](images/diagram.png)
 
 <br/>
-
 ## Billede af vores klimaanlæg:
 
 <img src="images/raspberrypi-computertek-hf1.png" alt="RaspberryPi-image" width="80%"/>
