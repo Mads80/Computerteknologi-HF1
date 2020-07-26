@@ -37,7 +37,8 @@ LED Display som viser temperaturen.
 
 ## Billede af vores klimaanlæg:
 
-![RaspberryPi-image](images/raspberrypi-computertek-hf1.png | width=48)
+![RaspberryPi-image](images/raspberrypi-computertek-hf1.png =200x)
+
 ## Vores kode:
 
 ```python
