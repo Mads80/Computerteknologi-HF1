@@ -13,13 +13,9 @@ Vores projekt består af følgende komponenter:
 ● Strømforsyning (PSU)
 
 ● 12V kabinet-blæser
-
 ● GrovePi Relay
-
 ● GrovePi DHT11
-
 ● GrovePi LED
-
 ● GrovePi Display.
 
 
