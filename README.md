@@ -1,4 +1,4 @@
-# Computerteknologi HF1 - Klimaanlæg
+# Computerteknologi HF1 - Klimaanlæg :sweat_drops:
 <div align="right">
 	<sub>
 		Mark Pedersen & Mads Finseth 18-06-2020
