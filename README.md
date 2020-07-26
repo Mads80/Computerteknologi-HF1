@@ -2,6 +2,7 @@
 <div align="right">
 	<sub>
 		Mark Pedersen & Mads Finseth 18-06-2020
+		<br/>
 		Redigeret til Github af Mads 26-07-2020
 	</sub>
 </div>
