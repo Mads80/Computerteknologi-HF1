@@ -1,5 +1,10 @@
 # Computerteknologi HF1 - Klimaanlæg
-<div align="right"><sub>Mark Pedersen & Mads Finseth 18-06-2020</sub></div>
+<div align="right">
+	<sub>
+		Mark Pedersen & Mads Finseth 18-06-2020
+		Redigeret til Github af Mads 26-07-2020
+	</sub>
+</div>
 
 ## Projektbeskrivelse:
 Vi har lavet et klimaanlæg, hvor en blæser sætter i gang hvis temperaturen er over 28C.
