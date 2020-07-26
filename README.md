@@ -2,17 +2,27 @@
 Mark Pedersen & Mads Finseth 18-06-2020
 
 ## Projektbeskrivelse:
-Vi har lavet et klimaanlæg, hvor en blæser sætter i gang hvis temperaturen er over
-28C.
+Vi har lavet et klimaanlæg, hvor en blæser sætter i gang hvis temperaturen er over 28C.
+
 Vores projekt består af følgende komponenter:
+
 ● GrovePi
+
 ● Raspberry Pi Model B Rev 1.2
+
 ● Strømforsyning (PSU)
+
 ● 12V kabinet-blæser
+
 ● GrovePi Relay
+
 ● GrovePi DHT11
+
 ● GrovePi LED
+
 ● GrovePi Display.
+
+
 Vi har jumpet en strømforsyning, så vi kan få strøm til vores blæser. For at sætte blæseren
 til vores GrovePi, har vi en ledning fra blæser til molex, en ledning fra relæet til molex, og en
 ledning fra blæser til relæet.
