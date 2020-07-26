@@ -6,18 +6,16 @@ Vi har lavet et klimaanlæg, hvor en blæser sætter i gang hvis temperaturen er
 
 Vores projekt består af følgende komponenter:
 
-● GrovePi
+- GrovePi
+- Raspberry Pi Model B Rev 1.2
+- Strømforsyning (PSU)
+- 12V kabinet-blæser
+- GrovePi Relay
+- GrovePi DHT11
+- GrovePi LED
+- GrovePi Display.
 
-● Raspberry Pi Model B Rev 1.2
-
-● Strømforsyning (PSU)
-
-● 12V kabinet-blæser
-● GrovePi Relay
-● GrovePi DHT11
-● GrovePi LED
-● GrovePi Display.
-
+<br/>
 
 Vi har jumpet en strømforsyning, så vi kan få strøm til vores blæser. For at sætte blæseren
 til vores GrovePi, har vi en ledning fra blæser til molex, en ledning fra relæet til molex, og en
